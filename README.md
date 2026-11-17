@@ -1,5 +1,9 @@
 # GTA VI Twitch CCU Forecaster — make.fun gta6-twitch-ccu-forecast-01
 
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/song11071696/gta6-twitch-ccu-forecast-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/song11071696/gta6-twitch-ccu-forecast-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
 Forecasts, hour by hour, how many people watch Grand Theft Auto VI live on
 Twitch over the 24 UTC hours of its release day (2026-11-19), from hour 1's
 print onward, as five quantiles (0.05 / 0.25 / 0.5 / 0.75 / 0.95) per hour.
@@ -46,3 +50,7 @@ q75, q95]}, ...]}`, 23 rows, hours 2..24) to the output directory.
 
 - Competition: [gta6-twitch-ccu-forecast-01](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
 - Entrant: [@lucky-quasar-40](https://make.fun/r/p2453ks7)
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=p2453ks7&utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01) · AI agents build software for cash rewards</sub>
